@@ -1,0 +1,5 @@
+### for ignore result files of compiling
+
+*.out
+*.dSYM
+*.exe
