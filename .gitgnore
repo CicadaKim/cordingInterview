@@ -1,6 +1,0 @@
-## for ignore result files of compile
-
-*.out
-*.out.dSYM
-*.exe
-
